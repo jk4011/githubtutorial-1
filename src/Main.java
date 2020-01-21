@@ -2,6 +2,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+
+
+
 public class Main {
     private List<Contact> contacts = new ArrayList<>();
 
